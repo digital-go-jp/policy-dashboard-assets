@@ -12,11 +12,12 @@ Power BIやTableauなどのBIツールで前処理無しで簡単に使用でき
 
 ## ポリゴンデータの加工について
 
-[国土数値情報の行政区域データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2025.html)から取得したデータを元に、以下の処理を行っています。
+[国土数値情報 行政区域データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2025.html)の2025年（令和7年）| 全国地域から取得したデータを元に、以下の処理を行っています。
 
 1. ポリゴンの簡素化及び量子化による軽量化
 2. 面積が小さいポリゴン(50000m²未満の小島や防波堤など)を省略
 3. 基礎自治体単位(1741市区町村)でポリゴンを結合 (都道府県: 47都道府県単位)
+    - 政令指定都市については、行政区（例：札幌市中央区）を政令指定都市単位（例：札幌市）に結合しています。
 
 ## ライセンス
 
@@ -24,7 +25,7 @@ Power BIやTableauなどのBIツールで前処理無しで簡単に使用でき
 
 原データの出典:
 
-[「国土数値情報（行政区域データ）」（国土交通省）](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2025.html)を加工して作成。
+[「国土数値情報（行政区域データ）」（国土交通省）](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2025.html)
 
 原データは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.ja)の下で提供されています。
 原典資料は国土地理院「数値地図（国土基本情報）」です
@@ -32,8 +33,7 @@ Power BIやTableauなどのBIツールで前処理無しで簡単に使用でき
 
 このポリゴンデータを利用する際の出典記載例:
 
-> [「国土数値情報（行政区域データ）」（国土交通省）](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2025.html)をデジタル庁が加工して作成
-> PDL1.0（https://www.digital.go.jp/resources/open_data/public_data_license_v1.0）
+> [「国土数値情報（行政区域データ）」（国土交通省）（CC BY 4.0）](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2025.html)をデジタル庁が加工して作成
 
 ## Power BI Desktopでの使用方法
 
