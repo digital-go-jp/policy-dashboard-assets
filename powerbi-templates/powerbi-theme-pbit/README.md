@@ -5,13 +5,13 @@ Power BIのチャート・コンポーネントライブラリのファイル
 
 | カラー | JSON |
 |---|---|
-| Solid Gray | [チャート・コンポーネントライブラリ_SolidGray.pbit](チャート・コンポーネントライブラリ_SolidGray.pbit) |
-| Blue | [チャート・コンポーネントライブラリ_Blue.pbit](チャート・コンポーネントライブラリ_Blue.pbit) |
-| Light Blue | [チャート・コンポーネントライブラリ_LightBlue.pbit](チャート・コンポーネントライブラリ_LightBlue.pbit) |
-| Green | [チャート・コンポーネントライブラリ_Green.pbit](チャート・コンポーネントライブラリ_Green.pbit) |
-| Cyan | [チャート・コンポーネントライブラリ_Cyan.pbit](チャート・コンポーネントライブラリ_Cyan.pbit) |
-| Red | [チャート・コンポーネントライブラリ_Red.pbit](チャート・コンポーネントライブラリ_Red.pbit) |
-| Orange | [チャート・コンポーネントライブラリ_Orange.pbit](チャート・コンポーネントライブラリ_Orange.pbit) |
+| Solid Gray | [デザインテンプレート_SolidGray_1_0_0.pbit](デザインテンプレート_SolidGray_1_0_0.pbit) |
+| Blue | [デザインテンプレート_Blue_1_0_0.pbit](デザインテンプレート_Blue_1_0_0.pbit) |
+| Light Blue | [デザインテンプレート_LightBlue_1_0_0.pbit](デザインテンプレート_LightBlue_1_0_0.pbit) |
+| Green | [デザインテンプレート_Green_1_0_0.pbit](デザインテンプレート_Green_1_0_0.pbit) |
+| Cyan | [デザインテンプレート_Cyan_1_0_0.pbit](デザインテンプレート_Cyan_1_0_0.pbit) |
+| Red | [デザインテンプレート_Red_1_0_0.pbit](デザインテンプレート_Red_1_0_0.pbit) |
+| Orange | [デザインテンプレート_Orange_1_0_0.pbit](デザインテンプレート_Orange_1_0_0.pbit) |
 
 ## ライブラリの特徴
 1. テキストサイズ、カラー等が整備されたチャート

@@ -37,7 +37,7 @@ Power BIやTableauで使用できる日本地図のファイル
 3. 基礎自治体単位(1741市区町村)単位でポリゴンを結合 (都道府県: 47都道府県単位)
 
 ## データ
-このディレクトリに含まれるデータは、国土交通省「[国土数値情報ダウンロードサイト](https://nlftp.mlit.go.jp/ksj/)」のデータを加工して作成したものであり、 「国土数値情報ダウンロードサイトコンテンツ利用規約（政府標準利用規約準拠版）」および [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode.ja) に従って利用可能です。
+このディレクトリに含まれるデータは、国土交通省「[国土数値情報ダウンロードサイト](https://nlftp.mlit.go.jp/ksj/)」のデータを加工して作成したものであり、 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode.ja) に従って利用可能です。
 
 出典：[国土交通省 国土数値情報ダウンロードサイト](https://nlftp.mlit.go.jp/)
 

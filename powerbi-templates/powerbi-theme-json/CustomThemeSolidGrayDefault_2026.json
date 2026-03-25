@@ -2402,7 +2402,7 @@
                 "padding": [
                     {
                         "$id": "default",
-                        "paddingUniform": 16,
+                        "paddingUniform": 0,
                         "paddingIndividual": false
                     }
                 ],
