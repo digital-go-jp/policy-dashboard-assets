@@ -21,19 +21,20 @@ Power BIやTableauなどのBIツールで前処理無しで簡単に使用でき
 
 ## ライセンス
 
-このディレクトリに含まれるポリゴンデータは、[公共データ利用規約（第1.0版）（PDL 1.0）](https://www.digital.go.jp/resources/open_data/public_data_license_v1.0)の下で公開しています。
+### 原データについて
 
-原データの出典:
+出典：[「国土数値情報（行政区域データ）」（国土交通省）](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2025.html)
+ライセンス: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.ja)
 
-[「国土数値情報（行政区域データ）」（国土交通省）](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2025.html)
+### 本データセットのライセンス
 
-原データは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.ja)の下で提供されています。
-原典資料は国土地理院「数値地図（国土基本情報）」です
-（測量法に基づく国土地理院長承認（複製）R 6JHf 503）。
+本データセットは、上記原データを加工して作成した派生データです。  
+原データのライセンスに従い、本データセットも [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.ja) の下で公開します。
+CC BY 4.0 の条件に従い、出典を表示することで、改変・再配布が可能です。
 
-このポリゴンデータを利用する際の出典記載例:
+### 出典表示例
 
-> [「国土数値情報（行政区域データ）」（国土交通省）（CC BY 4.0）](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2025.html)をデジタル庁が加工して作成
+> 「国土数値情報（行政区域データ）」（国土交通省）を加工して作成
 
 ## Power BI Desktopでの使用方法
 
