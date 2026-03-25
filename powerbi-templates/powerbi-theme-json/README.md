@@ -20,5 +20,4 @@ Power BIで使用できるテーマJSONファイル
 参照：[マイクロソフト Power BI でレポート テーマを使用する](https://learn.microsoft.com/ja-jp/power-bi/create-reports/desktop-report-themes)
 
 ## 注意点
-- このディレクトリに含まれるデータは、マイクロソフト 「レポート テーマの JSON スキーマ リポジトリ の [reportThemeSchema-2.150.json](https://github.com/microsoft/powerbi-desktop-samples/blob/main/Report%20Theme%20JSON%20Schema/reportThemeSchema-2.150.json)」を参照して作成しています。
 - Power BIのアップデートにより、表示崩れなどが生じる場合があります。
