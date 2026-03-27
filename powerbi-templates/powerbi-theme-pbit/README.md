@@ -1,5 +1,5 @@
 # powerbi-templates/powerbi-theme-pbit
-Power BIのチャート・コンポーネントライブラリのファイル
+Power BIのデザインテンプレートのファイル
 
 ## カラー
 
